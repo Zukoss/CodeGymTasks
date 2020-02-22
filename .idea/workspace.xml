@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0429/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0440/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0440/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -51,7 +56,7 @@
       <recent name="D:\intellijSandbox\CodeGymTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -336,13 +341,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0435.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0440.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task04.task0435.*" />
+          <option name="PATTERN" value="pl.codegym.task.task04.task0440.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,13 +435,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -476,10 +493,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582294821423">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582398146700">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1582294821423" />
+    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.920@0.0.1707.920" timestamp="1582398146700" />
     <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1582397670523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -496,22 +514,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="454" y="47" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397103589" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1582328908485">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1582410562324">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1582328908485">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1582410562324">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1582328908485">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1582410562323">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1582328908485">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1582410562323" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1582410562324">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
     <state x="417" y="53" key="RollbackChangesDialog" timestamp="1582397700155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -524,5 +546,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582306669994" />
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582398193710">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1582398193710" />
   </component>
 </project>
