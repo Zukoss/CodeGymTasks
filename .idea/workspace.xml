@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0440/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0440/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Next">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0441/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0441/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -56,7 +55,7 @@
       <recent name="D:\intellijSandbox\CodeGymTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -285,20 +284,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0436.Solution" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task04.task0436.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0437.Solution" />
       <module name="1.JavaSyntax" />
@@ -348,6 +333,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.codegym.task.task04.task0440.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0441.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.codegym.task.task04.task0441.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,11 +434,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -476,6 +475,14 @@
       <workItem from="1485162014696" duration="83000" />
       <workItem from="1485177835943" duration="100000" />
     </task>
+    <task id="LOCAL-00001" summary="Next.">
+      <created>1582410738367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582410738367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -492,56 +499,64 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Next." />
+    <MESSAGE value="Next" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582398146700">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1582294821423" />
     <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.920@0.0.1707.920" timestamp="1582398146700" />
-    <state x="328" y="0" key="CommitChangelistDialog2" timestamp="1582397670523">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1582411185696">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582397670523" />
+    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1582411185696" />
     <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1582327653810">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582327653810" />
-    <state x="505" y="235" key="Github.ShareDialog" timestamp="1582397058252">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="673" y="318" key="Github.ShareDialog" timestamp="1582414818375">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="505" y="235" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397058252" />
+    <state x="673" y="318" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1582414818375" />
     <state x="454" y="47" key="Github.UntrackedFilesDialog" timestamp="1582397103589">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="454" y="47" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397103589" />
-    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1582410562324">
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1582414023316">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
-    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1582410562324">
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1582414023316">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
-    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1582410562323">
+    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1582414023316">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1582410562323" />
-    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1582410562324">
+    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1582414023316">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1582410562324" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
     <state x="417" y="53" key="RollbackChangesDialog" timestamp="1582397700155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="417" y="53" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397700155" />
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1582397275818">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="311" y="101" key="Vcs.Push.Dialog.v2" timestamp="1582411154328">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1582397275818" />
+    <state x="311" y="101" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1582411154328" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1582306669994">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
