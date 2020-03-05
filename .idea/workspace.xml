@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Next">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0442/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0442/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0501/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0501/Kot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0502/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0502/Kot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0503/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0503/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0504/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task05/task0504/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0441/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/pl/codegym/task/task04/task0441/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -18,6 +27,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="CodeGymTasks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -284,13 +301,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0437.Solution" />
+    <configuration name="Kot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task05.task0502.Kot" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task04.task0437.*" />
+          <option name="PATTERN" value="pl.codegym.task.task05.task0502.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +344,12 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0440.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0442.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task04.task0440.*" />
+          <option name="PATTERN" value="pl.codegym.task.task04.task0442.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,12 +358,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task04.task0441.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pl.codegym.task.task05.task0504.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.codegym.task.task04.task0441.*" />
+          <option name="PATTERN" value="pl.codegym.task.task05.task0504.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,19 +380,6 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="CodeGymTasks" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -435,10 +439,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Kot" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -475,14 +479,6 @@
       <workItem from="1485162014696" duration="83000" />
       <workItem from="1485177835943" duration="100000" />
     </task>
-    <task id="LOCAL-00001" summary="Next.">
-      <created>1582410738367</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1582410738367</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -499,71 +495,90 @@
       <collection />
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Next." />
-    <MESSAGE value="Next" />
-    <option name="LAST_COMMIT_MESSAGE" value="Next" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582398146700">
+    <state x="446" y="119" key="#Updates" timestamp="1582570994402">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="119" key="#Updates/0.0.1707.920@0.0.1707.920" timestamp="1582570994402" />
+    <state x="584" y="216" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582584803377">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="216" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1707.920@0.0.1707.920" timestamp="1582584803377" />
+    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582573568169">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1582294821423" />
-    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.920@0.0.1707.920" timestamp="1582398146700" />
-    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1582411185696">
+    <state x="653" y="313" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.920@0.0.1707.920" timestamp="1582573568169" />
+    <state x="384" y="79" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1582573562319">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="384" y="79" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1707.920@0.0.1707.920" timestamp="1582573562319" />
+    <state x="437" y="0" key="CommitChangelistDialog2" timestamp="1583407857566">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="328" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582397670523" />
-    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1582411185696" />
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1582327653810">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582327653810" />
-    <state x="673" y="318" key="Github.ShareDialog" timestamp="1582414818375">
+    <state x="437" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1583407857566" />
+    <state x="561" y="131" key="FileChooserDialogImpl" timestamp="1582573558844">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582327653810" />
+    <state x="561" y="131" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1582573558844" />
+    <state x="505" y="235" key="Github.ShareDialog" timestamp="1582397058252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
     <state x="505" y="235" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397058252" />
-    <state x="673" y="318" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1582414818375" />
     <state x="454" y="47" key="Github.UntrackedFilesDialog" timestamp="1582397103589">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="454" y="47" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397103589" />
-    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1582414023316">
+    <state width="1663" height="203" key="GridCell.Tab.0.bottom" timestamp="1583407708884">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
-    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1582414023316">
+    <state width="1663" height="203" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1583407708884" />
+    <state width="1663" height="203" key="GridCell.Tab.0.center" timestamp="1583407708884">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
-    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1582414023316">
+    <state width="1663" height="203" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1583407708884" />
+    <state width="1663" height="203" key="GridCell.Tab.0.left" timestamp="1583407708884">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
-    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1582414023316">
+    <state width="1663" height="203" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1583407708884" />
+    <state width="1663" height="203" key="GridCell.Tab.0.right" timestamp="1583407708884">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582328908485" />
-    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1582414023316" />
+    <state width="1663" height="203" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1583407708884" />
     <state x="417" y="53" key="RollbackChangesDialog" timestamp="1582397700155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="417" y="53" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582397700155" />
-    <state x="311" y="101" key="Vcs.Push.Dialog.v2" timestamp="1582411154328">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1582397275818" />
-    <state x="311" y="101" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1582411154328" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1582306669994">
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1582397275818">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582306669994" />
-    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582398193710">
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1582397275818" />
+    <state x="869" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1583400698279">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1582398193710" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582306669994" />
+    <state x="869" y="363" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1583400698279" />
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582416410441">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="663" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1582416410441" />
+    <state x="572" y="252" key="git4idea.merge.GitPullDialog" timestamp="1582416420049">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="572" y="252" key="git4idea.merge.GitPullDialog/0.0.1707.920@0.0.1707.920" timestamp="1582416420049" />
+    <state x="304" y="156" key="new project wizard" timestamp="1582964695264">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="304" y="156" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1582964695264" />
+    <state x="510" y="211" key="run.anything.popup" timestamp="1583404317200">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="510" y="211" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1583404317200" />
   </component>
 </project>
